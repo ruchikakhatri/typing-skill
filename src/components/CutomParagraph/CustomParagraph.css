@@ -1,0 +1,16 @@
+p {
+    width: 50%;
+    height: 100px;
+    overflow-y: auto;
+    border: 1px solid;
+    margin: 20px auto;
+    position: relative;
+    text-align: left;
+    padding: 10px;
+}
+svg {
+    position: absolute;
+    right: 0;
+    top: 0;
+    cursor: pointer;
+}

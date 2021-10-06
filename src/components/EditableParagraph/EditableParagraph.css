@@ -1,0 +1,18 @@
+.edit-paragraph {
+    position: relative;
+}
+.edit-paragraph input {
+    width: 50%;
+    height: 100px;
+    position: relative;
+    padding-right: 20px;
+}
+.edit-paragraph input:focus {
+    border: 5px solid blue;
+}
+.edit-paragraph svg {
+    position: absolute;
+    cursor: pointer;
+    right: 24%;
+    margin: 5px;
+}
